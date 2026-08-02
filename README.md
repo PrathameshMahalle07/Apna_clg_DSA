@@ -1,2 +1,2 @@
-# Apna_clg_DSA_que_50
+# Apna_clg_DSA
 These is leetcode problem 50.
