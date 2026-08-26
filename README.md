@@ -11,4 +11,8 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
