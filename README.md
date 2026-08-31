@@ -32,6 +32,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
 ## Enumeration
 |  |
 | ------- |
@@ -40,6 +41,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -64,4 +66,8 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
