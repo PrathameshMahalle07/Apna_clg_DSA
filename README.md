@@ -10,11 +10,13 @@ These is leetcode problem 50.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1108-defanging-an-ip-address) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -70,4 +72,8 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
