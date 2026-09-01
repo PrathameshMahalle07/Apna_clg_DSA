@@ -7,6 +7,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ These is leetcode problem 50.
 | [0485-max-consecutive-ones](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +33,7 @@ These is leetcode problem 50.
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +85,12 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
