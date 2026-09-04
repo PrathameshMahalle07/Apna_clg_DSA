@@ -20,6 +20,7 @@ These is leetcode problem 50.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0035-search-insert-position) |
@@ -97,6 +98,7 @@ These is leetcode problem 50.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
