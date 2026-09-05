@@ -5,13 +5,13 @@ public:
         int slow = arr[0];
         int fast = arr[0];
 
-        // Phase 1
+        
         do {
             slow = arr[slow];
             fast = arr[arr[fast]];
         } while(slow != fast);
 
-        // Phase 2
+        
         slow = arr[0];
 
         while(slow != fast) {
