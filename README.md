@@ -47,6 +47,7 @@ These is leetcode problem 50.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
@@ -107,4 +108,12 @@ These is leetcode problem 50.
 | [0414-third-maximum-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
