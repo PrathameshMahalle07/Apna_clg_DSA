@@ -63,6 +63,7 @@ These is leetcode problem 50.
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -130,6 +131,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,4 +164,12 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
