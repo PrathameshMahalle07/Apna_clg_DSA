@@ -15,12 +15,14 @@ These is leetcode problem 50.
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
