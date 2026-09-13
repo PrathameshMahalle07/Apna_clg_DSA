@@ -34,6 +34,7 @@ These is leetcode problem 50.
 | [0018-4sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
@@ -144,6 +145,7 @@ These is leetcode problem 50.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -181,4 +183,8 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
