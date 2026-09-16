@@ -35,6 +35,7 @@ These is leetcode problem 50.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
@@ -190,11 +191,13 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
