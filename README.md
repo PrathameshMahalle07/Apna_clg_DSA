@@ -9,6 +9,7 @@ These is leetcode problem 50.
 | [0015-3sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -39,6 +40,7 @@ These is leetcode problem 50.
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
@@ -137,6 +139,7 @@ These is leetcode problem 50.
 | ------- |
 | [0015-3sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0905-sort-array-by-parity) |
@@ -209,4 +212,12 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
