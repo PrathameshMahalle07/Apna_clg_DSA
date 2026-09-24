@@ -45,6 +45,7 @@ These is leetcode problem 50.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -65,6 +66,7 @@ These is leetcode problem 50.
 | [0069-sqrtx](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -220,4 +222,12 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
