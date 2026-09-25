@@ -26,6 +26,7 @@ These is leetcode problem 50.
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1108-defanging-an-ip-address) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -228,6 +229,7 @@ These is leetcode problem 50.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
