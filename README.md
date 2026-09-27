@@ -21,6 +21,7 @@ These is leetcode problem 50.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -81,6 +82,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
@@ -136,6 +138,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
