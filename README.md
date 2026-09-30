@@ -62,6 +62,7 @@ These is leetcode problem 50.
 | [1004-max-consecutive-ones-iii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ These is leetcode problem 50.
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Ternary Search
 |  |
 | ------- |
@@ -126,6 +128,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
+| [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Trie
 |  |
 | ------- |
@@ -241,4 +244,12 @@ These is leetcode problem 50.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
