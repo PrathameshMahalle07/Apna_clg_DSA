@@ -25,6 +25,7 @@ These is leetcode problem 50.
 | [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -89,6 +90,7 @@ These is leetcode problem 50.
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -129,6 +131,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0412-fizz-buzz) |
 | [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Trie
 |  |
