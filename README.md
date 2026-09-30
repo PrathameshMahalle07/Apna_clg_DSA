@@ -88,6 +88,7 @@ These is leetcode problem 50.
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
@@ -164,12 +165,14 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0342-power-of-four) |
 ## Pigeonhole Principle
 |  |
 | ------- |
