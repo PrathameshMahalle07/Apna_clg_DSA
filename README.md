@@ -43,6 +43,7 @@ These is leetcode problem 50.
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -70,6 +71,7 @@ These is leetcode problem 50.
 | [0033-search-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -121,6 +123,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Ternary Search
