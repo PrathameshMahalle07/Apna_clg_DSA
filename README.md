@@ -58,6 +58,7 @@ These is leetcode problem 50.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0941-valid-mountain-array) |
@@ -152,6 +153,7 @@ These is leetcode problem 50.
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -161,6 +163,7 @@ These is leetcode problem 50.
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0414-third-maximum-number) |
+| [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
@@ -179,6 +182,7 @@ These is leetcode problem 50.
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
