@@ -229,6 +229,7 @@ These is leetcode problem 50.
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
@@ -236,6 +237,7 @@ These is leetcode problem 50.
 | ------- |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
