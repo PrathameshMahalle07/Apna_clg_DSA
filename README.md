@@ -9,6 +9,7 @@ These is leetcode problem 50.
 | [0015-3sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
@@ -42,6 +43,7 @@ These is leetcode problem 50.
 | [0035-search-insert-position](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0059-spiral-matrix-ii) |
@@ -220,6 +222,7 @@ These is leetcode problem 50.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -273,4 +276,12 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
