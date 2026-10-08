@@ -11,6 +11,7 @@ These is leetcode problem 50.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -50,6 +51,7 @@ These is leetcode problem 50.
 | [0074-search-a-2d-matrix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
@@ -169,6 +171,7 @@ These is leetcode problem 50.
 | [0015-3sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
