@@ -12,6 +12,7 @@ These is leetcode problem 50.
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -161,6 +162,7 @@ These is leetcode problem 50.
 | [0001-two-sum](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0037-sudoku-solver) |
+| [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
@@ -181,6 +183,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -203,6 +206,7 @@ These is leetcode problem 50.
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Brainteaser
 |  |
