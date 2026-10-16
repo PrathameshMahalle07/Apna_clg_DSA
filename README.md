@@ -189,6 +189,7 @@ These is leetcode problem 50.
 | [0141-linked-list-cycle](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -285,6 +286,7 @@ These is leetcode problem 50.
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -298,4 +300,8 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
