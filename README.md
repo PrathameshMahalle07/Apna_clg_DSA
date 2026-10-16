@@ -95,6 +95,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0204-count-primes) |
