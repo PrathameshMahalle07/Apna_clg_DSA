@@ -189,6 +189,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0206-reverse-linked-list) |
@@ -197,6 +198,7 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0509-fibonacci-number) |
