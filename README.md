@@ -67,6 +67,7 @@ These is leetcode problem 50.
 | [0414-third-maximum-number](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -171,6 +172,7 @@ These is leetcode problem 50.
 | [0142-linked-list-cycle-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -303,10 +305,12 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
