@@ -68,6 +68,7 @@ These is leetcode problem 50.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0645-set-mismatch) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -306,11 +307,13 @@ These is leetcode problem 50.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0503-next-greater-element-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
