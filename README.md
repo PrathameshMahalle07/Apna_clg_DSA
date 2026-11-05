@@ -29,6 +29,7 @@ These is leetcode problem 50.
 | ------- |
 | [0013-roman-to-integer](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0412-fizz-buzz) |
@@ -305,6 +306,7 @@ These is leetcode problem 50.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0503-next-greater-element-ii) |
@@ -318,4 +320,8 @@ These is leetcode problem 50.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PrathameshMahalle07/Apna_clg_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
